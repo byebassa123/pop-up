@@ -23,3 +23,10 @@ Here are lists of useful websites that I have used.
 * [CSS](https://www.youtube.com/watch?v=1PnVor36_40&t=640s)
 * [More-CSS](https://www.youtube.com/watch?v=ieTHC78giGQ)
 *  [TutorialPoint](https://www.tutorialspoint.com/css/index.htm)
+
+# Future Work
+
+{
+* Add visuals to it
+* Make the bible verses random for diffrent days 
+* Make it more interactive! 
